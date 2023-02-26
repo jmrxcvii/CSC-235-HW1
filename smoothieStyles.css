@@ -1,0 +1,151 @@
+.outerBorder {
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: black;
+    width: 100%; 
+    height: 100%; 
+    position: absolute; 
+    top: 0; 
+    bottom: 0;
+    left: 0;
+    right:0;
+}
+
+.top {
+    color: #a50476; 
+    font-style: italic; 
+    font-family: Georgia;
+    font-size: 30px; 
+    text-align: left; 
+    text-shadow: -1px 5px 6px #f1eac0, -3px 10px 6px #EDD1CB;
+}
+
+.tabBorder{
+    border-collapse: collapse;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+}
+
+.firstTab {
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    border-style: solid; 
+    border-width: thin;
+    border-left-width: medium;
+    border-color: black;
+    background-color: #28336b; 
+    color: #eeed93;
+    font-family: nirmala UI;
+    font-size: 14px;
+}
+
+.tabs {
+    height: 30px;
+    width: 200px;
+    text-align: center; 
+    border-style: solid; 
+    border-width: thin;
+    border-left-width: medium;
+    border-right-width: 2px;
+    border-color: black;
+    background-color: #7d83a5; 
+    color: white;
+    font-family: nirmala UI;
+    font-size: 14px;
+}
+
+.lastTabs{
+    height: 30px;
+    width: 80px;
+    background-color: #707698;
+}
+
+.leftCol {
+    background: linear-gradient(#C076B1, #EAB8C3, 15%, #EAB8C3);
+    text-align: left;
+}
+
+.funkyOrange{
+    padding-left: 25px;
+    border-style: dotted;
+    border-color: #903638;
+}
+
+.tropicalKick{
+    padding-left: 25px;
+    border-style: dotted;
+    border-color: #903638;
+}
+
+.leftimage {
+    border-style: groove; 
+    border-width: 3px; 
+    border-color: #D61DD3;
+}
+
+.rightCol{
+    padding-bottom: 40px;
+    padding-left: 50px;
+    background: linear-gradient(#F1DCAD, #F9F2E0, 15%, #FFFFFF);
+}
+
+.rightColImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.roundTable{
+    padding-left: 30px;
+    padding-right: 20px;
+    height: 150px;
+    background-color: #ddddff;
+    border-radius: 20px;
+}
+
+.bottom {
+    padding-left: 25px;
+    background-color:#f4fafa;
+    font-size: 12px;
+    font-family: nirmala UI;
+    font-style: bold;
+}
+
+.overLine{
+    font-family: nirmala UI;
+    text-decoration-line: overline;
+    text-decoration-thickness: 1px;
+    font-style: bold;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+.bolding{
+    font-style: bold;
+    font-family: nirmala UI;
+    letter-spacing: 2px;
+}
+
+.fill{
+    width: 100%; 
+    height: 100%; 
+}
+
+.link{ 
+    color: #1761AA;
+    text-decoration: underline;
+    text-decoration-color: #1761AA;
+}
+
+.lineSpace {
+    line-height: 1.5;
+}
+<!--       	
+    Name: John Rosso
+ 	Course:	  235.01
+ 	Homework:	  #1
+ 	Git-Hub:	  https://github.com/yourName/yourHomeWork
+  -->
